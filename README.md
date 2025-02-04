@@ -4,11 +4,11 @@ Repositório para distribuição de builds dos aplicativos Space Imobi.
 
 ## Downloads
 
-### Vistorias
-- [APK Produção](https://spaceimobi.github.io/public/apks/production/latest.apk)
-- [APK Homologação](https://spaceimobi.github.io/public/apks/homolog/latest.apk)
+### App Vistorias 
+- [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias-beta.apk) (beta/homologação)
+- [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias.apk)
 
-## Metadados
 
-- [Produção](https://spaceimobi.github.io/public/production-latest.json)
-- [Homologação](https://spaceimobi.github.io/public/homolog-latest.json)
+### App Chamados (clientes)
+- [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes-beta.apk) (beta/homologação)
+- [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes.apk)
