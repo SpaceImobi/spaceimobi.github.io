@@ -13,9 +13,9 @@ Repositório para distribuição de builds dos aplicativos Space Imobi.
 
 ## App Clientes
 
-| Tipo        | Beta/Homologação                                                                     | Produção                                                                        |
+|         | Beta/Homologação                                                                     | Produção                                                                        |
 | ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| versão | ![BETA](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes-beta.json&color=green)  | ![PROD](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes.json&color=lemon) |
+| **Versão** | ![BETA](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes-beta.json&color=green)  | ![PROD](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes.json&color=lemon) |
 | APK Android | [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes-beta.apk) | [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes.apk)<br> |
 | Versão WEB  | [Versão WEB/PWA](https://spaceimobi.github.io/clientes/)                                 | -                                                                               |
 | App iOS     | -                                                                                    | -                                                                               |
