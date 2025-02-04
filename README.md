@@ -2,14 +2,18 @@
 
 Repositório para distribuição de builds dos aplicativos Space Imobi.
 
-## Downloads
+## App Vistorias
 
-### App Vistorias
+| Tipo        | Beta/Homologação                                                                 | Produção                                                              |
+| ----------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| APK Android | [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias-beta.apk) [![🤖 Build and Deploy APK](https://github.com/SpaceImobi/app_vistorias/actions/workflows/deploy-apk.yml/badge.svg?branch=dev)](https://github.com/SpaceImobi/app_vistorias/actions/workflows/deploy-apk.yml)<br>![Versão Beta](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-vistorias-beta.json&color=orange) | [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias.apk)<br>![Versão Produção](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-vistorias.json&color=blue) |
+| Versão WEB    | [Versão WEB](https://spaceimobi.github.io/vistorias/)                             | [Versão WEB](https://spaceimobi.com/apps/vistorias/) (em breve...)    |
+| App iOS     | -                                                                     | -                                                          |
 
-- [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias-beta.apk) (beta/homologação)
-- [Download APK](https://spaceimobi.github.io/public/spaceimobi-vistorias.apk)
+## App Clientes
 
-### App Chamados (clientes)
-
-- [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes-beta.apk) (beta/homologação)
-- [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes.apk)
+| Tipo        | Beta/Homologação                                                                 | Produção                                                              |
+| ----------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| APK Android | [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes-beta.apk)<br>![Versão Beta](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes-beta.json&color=orange) | [Download APK](https://spaceimobi.github.io/public/spaceimobi-clientes.apk)<br>![Versão Produção](https://img.shields.io/badge/dynamic/json?label=versão&query=$.version&url=https://spaceimobi.github.io/public/spaceimobi-clientes.json&color=blue) |
+| Versão WEB    | [Versão WEB](https://spaceimobi.github.io/clientes/)                             | [Versão WEB](https://spaceimobi.com/apps/clientes/) (em breve...)    |
+| App iOS     | -                                                                     | -                                                          |
